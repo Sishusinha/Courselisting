@@ -9,7 +9,7 @@ import {
 function HomePage(){
 
     useEffect(()=>{
-        document.title = "Udemy";
+        document.title = "Alemeno";
     })
 
     const [popularCourse, setPopularCourse] = useState([
@@ -72,7 +72,7 @@ function HomePage(){
         },        
         {
             ID: 6,
-            name: "Lana Marandina",
+            name: "Lana dina",
             username: "lanamara",
             dp: "http://placeimg.com/100/100/people?tutors-" + 6,
         }

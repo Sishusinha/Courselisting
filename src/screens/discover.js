@@ -8,7 +8,7 @@ function DiscoverPage(){
 
     return (
         <div className="app-page rel">
-            <h1 className="page-title s24 fontb c333">Discover</h1>
+            <h1 className="page-title s24 fontb c333">Huer</h1>
         </div>
     )
 }
